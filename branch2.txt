@@ -1,0 +1,1 @@
+Hi branch2.txt on branch branch2 from github for fetch clarity
