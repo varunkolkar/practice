@@ -1,1 +1,2 @@
 Hi branch1.txt on branch branch1 1st line
+Hi branch1.txt on branch branch1 2nd line
